@@ -1,2 +1,5 @@
 # JNBlog
-Easy to follow methods I have learned on my path as a data analyst.
+
+How to find length of cycleways on open street maps.
+
+
