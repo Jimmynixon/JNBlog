@@ -1,2 +1,2 @@
 # JNBlog
-Easy to follow methods I have learned on path to become a data analyst.
+Easy to follow methods I have learned on my path as a data analyst.
